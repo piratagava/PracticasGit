@@ -7,15 +7,11 @@ public class ProbandoBoolean {
         if (b) {
             x = 1;
         } else if (b = false) {
-            x = 2;
+            x = 1;
         } else if (b) {
-            x = 3;
+            x = 1;
         } else {
             x = 4;
-            System.out.println("x mas 4 =" + x);
         }
-
-        System.out.println("x=" + x);
-
     }
 }

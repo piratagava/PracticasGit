@@ -20,5 +20,9 @@ public class ProbandoBoolean {
         System.out.println("x=" + x);
         System.out.println("x=" + x);
         System.out.println("x=" + x);
+        System.out.println("x=" + x);
+        System.out.println("x=" + x);
+        System.out.println("x=" + x);
+        System.out.println("x=" + x);
     }
 }

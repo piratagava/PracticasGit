@@ -11,6 +11,7 @@ public class ProbandoBoolean {
             x = 2;
         } else if (b) {
             x = 3;
+            System.out.println("x de 3 para cambios a merge develop=" + x);
         } else {
             x = 4;
         }

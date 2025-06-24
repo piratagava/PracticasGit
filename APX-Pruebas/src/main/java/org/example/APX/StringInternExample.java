@@ -9,6 +9,8 @@ public class StringInternExample {
 
         System.out.println(str3);
 
+        System.out.println("2+2 = " + 2+2);
+
         System.out.println(str1 == str2);
         System.out.println(str2 == str3);
         System.out.println(str1 == str3);

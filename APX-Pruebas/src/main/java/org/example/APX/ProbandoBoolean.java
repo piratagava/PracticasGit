@@ -12,6 +12,7 @@ public class ProbandoBoolean {
             x = 3;
         } else {
             x = 4;
+            System.out.println("x mas 4 =" + x);
         }
 
         System.out.println("x=" + x);

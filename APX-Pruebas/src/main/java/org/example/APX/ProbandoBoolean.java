@@ -4,6 +4,7 @@ public class ProbandoBoolean {
     static boolean b;
     public static void main(String[] args) {
         int x = 0;
+        System.out.println("valor de b boolean = " + b);
         if (b) {
             x = 1;
         } else if (b = false) {

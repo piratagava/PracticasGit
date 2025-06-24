@@ -14,6 +14,7 @@ public class ProbandoBoolean {
             System.out.println("x de 3 para cambios a merge develop=" + x);
         } else {
             x = 4;
+            System.out.println("x mas 4 =" + x);
         }
 
         System.out.println("x=" + x);
